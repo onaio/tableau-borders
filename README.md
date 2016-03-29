@@ -8,7 +8,7 @@ We will focus initially on countries in Africa and places where we work.  We'll 
 
 ### Data Source
 
-This project uses admin boundary data from [OpenStreetMap](http://openstreetmap.org].  To get this data we are using the awesome [Mapzen Borders](https://mapzen.com/data/borders/) project.
+This project uses admin boundary data from [OpenStreetMap](http://openstreetmap.org).  To get this data we are using the awesome [Mapzen Borders](https://mapzen.com/data/borders/) project.
 
 Why OSM?  OSM admin boundary data is by no means perfect.  However, they represent one of the best non-propietary sources of data out there.  Promoting their use creates additional incentive for people to improve them too.
 
